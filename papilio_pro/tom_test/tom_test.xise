@@ -383,7 +383,7 @@
     <property xil_pn:name="Wait for DLL Lock (Output Events)" xil_pn:value="Default (NoWait)" xil_pn:valueState="default"/>
     <property xil_pn:name="Wakeup Clock spartan6" xil_pn:value="Startup Clock" xil_pn:valueState="default"/>
     <property xil_pn:name="Watchdog Timer Value spartan6" xil_pn:value="0xFFFF" xil_pn:valueState="default"/>
-    <property xil_pn:name="Working Directory" xil_pn:value="../../results/papilio/tom_test" xil_pn:valueState="non-default"/>
+    <property xil_pn:name="Working Directory" xil_pn:value="results" xil_pn:valueState="non-default"/>
     <property xil_pn:name="Write Timing Constraints" xil_pn:value="false" xil_pn:valueState="default"/>
     <property xil_pn:name="XOR Collapsing" xil_pn:value="true" xil_pn:valueState="default"/>
     <property xil_pn:name="iMPACT Project File" xil_pn:value="../../../papilio/tom_test/top.ipf" xil_pn:valueState="non-default"/>
